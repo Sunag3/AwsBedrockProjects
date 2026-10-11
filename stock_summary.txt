@@ -1,0 +1,1 @@
+Unable to fetch stock data due to invalid API key. Please provide a valid API key to retrieve the stock data.
